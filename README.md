@@ -15,7 +15,7 @@
 
 ##دروس کارشناسی
 
-[1322010_01 & 02 2 روش پژوهش و ارائه]()
+[1322010_01 & 02 2 روش پژوهش و ارائه](https://github.com/hoorasaeedi/PNU-3991-AR/tree/main/Research-And-Presentation-Methods)
 
 
 --------------
