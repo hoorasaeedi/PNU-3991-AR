@@ -41,7 +41,7 @@
    <tr>
     <th ></th>
     <th ></th>
-    <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/</a></th>
+    <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/</a>Theory-of-Languages-and-Machines" >نظريه زبانهاوماشين ها 01-1115157</th>
     <th></th>
     <th ></th>
     <th>یک شنبه</th>
