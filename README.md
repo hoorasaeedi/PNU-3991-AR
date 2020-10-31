@@ -5,9 +5,9 @@
 ---
 - [حساب گیت هاب](https://github.com/hoorasaeedi)
 
-- [رزومه](حورا سعيدى)
+- [رزومه]()
 
-- [https://hoorasaeedi.github.io/SOP/](لینک انگیزه نامه)
+- [SOP](https://hoorasaeedi.github.io/SOP/)
 
 
 ------------------
