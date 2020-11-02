@@ -13,7 +13,7 @@
 ------------------
 ## Winter Semester Courses 1399/2020
 
-##دروس کارشناسی
+دروس کارشناسی
 
 [1322010_01 & 02 2 روش پژوهش و ارائه](https://github.com/hoorasaeedi/PNU-3991-AR/tree/main/Research-And-Presentation-Methods)
 
