@@ -5,7 +5,7 @@
 ---
 - [حساب گیت هاب](https://github.com/hoorasaeedi)
 
-- [رزومه]()
+- [رزومه](https://github.com/hoorasaeedi/hoorasaeedi.github.io)
 
 - [SOP](https://hoorasaeedi.github.io/SOP/)
 
