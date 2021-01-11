@@ -18,7 +18,7 @@
 - [ارزیابی رزومه و انگیزه نامه](https://github.com/hoorasaeedi/PNU_3991_AR/blob/main/_General/HS_CV_CheckList_AR_3991.pdf)
 - [خلاصه ارزیابی بخش عمومی](https://github.com/hoorasaeedi/PNU_3991_AR/blob/main/_General/HS_GeneralSection_CheckList_AR_3991.pdf)
 ##  بخش دروس کارشناسی
-- [خلاصه ارزیابی درس روش پژوهش و ارائه]()
+- [خلاصه ارزیابی درس روش پژوهش و ارائه](https://github.com/hoorasaeedi/PNU_3991_AR/blob/main/_General/HS_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
 
 ------------------
 ## گروه ها
